@@ -11,7 +11,7 @@
 
 🔹 QA with experience in electronic equipment testing and final product validation.
 
-🔹 Currently expanding my knowledge in Software QA, SQL, Power BI, Git and Python.
+🔹 Currently expanding my knowledge in Software QA, SQL, Git and Python.
 
 🔹 Interested in QA Manual, Automation and Data Analysis.
 

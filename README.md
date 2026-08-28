@@ -29,7 +29,7 @@
 
 <img src="https://img.shields.io/badge/QA-Manual-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/SQL-Intermediate-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-Basic-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-green?style=for-the-badge">
 
 </p>
 
